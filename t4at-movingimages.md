@@ -4,7 +4,7 @@ paginate: true
 
 title: Video killed the Office Star
 theme: default
-header: 📷 Video killed the Office Star 🧑‍🎤
+header: 📷 Video killed the Office Star 🧑‍🎤 @ ![height:12](graphics/T4AT_Logo.svg)
 ---
 <!-- markdownlint-disable MD025 MD045 MD012 MD024 MD026 -->
 
@@ -59,10 +59,10 @@ footer: 🔗[Source](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_1
 
 ![bg right:40%](graphics/800px-C&O_Railroad_office.jpg)
 
-* erst: Schreibtische in Ruf- und Blickweite des Geschäftsinhabers.
-* dann: Das Büro ist auch nur eine andere Art Werkhalle.
-* später: Kommunikation über weite Entfernungen ist teuer und zeitaufwendig.
-* noch später: Die Maschinen und das Netzwerk waren nur in der Fabrik.
+* **erst**: Schreibtische in Ruf- und Blickweite des Geschäftsinhabers.
+* **dann**: Das Büro ist auch nur eine andere Art Werkhalle.
+* **später**: Kommunikation über weite Entfernungen ist teuer und zeitaufwendig.
+* **noch später**: Die Maschinen und das Netzwerk waren nur in der Fabrik.
 
 <!--
 footer: 🔗[Source](https://commons.wikimedia.org/wiki/File:C%26O_Railroad_office.jpg)
@@ -79,6 +79,9 @@ footer: 🔗[Source](https://commons.wikimedia.org/wiki/File:C%26O_Railroad_offi
 
 > Das was wir da gerade als großes Experiment zusammen durchmachen, haben Menschen schon viele Male in der Geschichte durchgemacht bzw. aktiv gestaltet.
 
+<!--
+footer: 💬
+-->
 ---
 
 # ⬅️ Blick zurück
@@ -160,7 +163,7 @@ footer: 💬
 -->
 ---
 
-# ⬅️ (Mein) Blick zurück - Open Spaces, Jams online, hybrid?
+# ⬅️ (Mein) Blick zurück - Open Spaces, Online Jams etc.
 
 * [24 hour Online Rebel Jam (30 May 2013)](https://allevo.ro/corporate-rebels-united-24-hour-online-rebel-jam-may-30-31/)
 * [Stoos Connect (25 Jan 2013)](https://www.youtube.com/user/StoosConnect/videos)
@@ -170,11 +173,11 @@ footer: 💬
 
 # ⬅️ Blick zurück - Verteilte Organisationen
 
-* [Linux](https://www.process.st/how-was-linux-created/) - verteilte Organisation mit "freundlichem Diktator", 13500 Entwickler seit 1991
-* [Gitlab](https://about.gitlab.com/company/culture/all-remote/guide/) - led by founder, 1500 members in 65 countries seit 2014
+* **[Linux](https://www.process.st/how-was-linux-created/)** - verteilte Organisation mit "freundlichem Diktator", 13500 Entwickler seit 1991
+* **[Gitlab](https://about.gitlab.com/company/culture/all-remote/guide/)** - led by founder, 1500 members in 65 countries seit 2014
   * "Remote is not a challenge to overcome. It's a clear business advantage."
 Victor, Product Manager, GitLab
-* Katholische Kirche - ~2000 Jahre, ca. 1,3 Mrd Mitglieder, stark verteilt, lokale Standorte, strenge Rollenverteilung und hierarchische Struktur
+* **Katholische Kirche** - ~2000 Jahre, ca. 1,3 Mrd Mitglieder, stark verteilt, lokale Standorte, strenge Rollenverteilung und hierarchische Struktur
 
 ---
 
@@ -204,7 +207,7 @@ footer: Pattern made with PPE face mask by Zamurovic Brothers from NounProject.c
 * Wie "macht" man eigentlich Remote Scrum?
 * Spiele-Metaphern für Business-Themen (wonder.me, gather.town)
 
-> "Es wird eine kritische Business-Kompetenz, sich sicher in Multiplayer-Games zu bewegen."
+* > "Es ist jetzt kritische Business-Kompetenz, sich sicher in Multiplayer-Games bewegen zu können."
 
 <!--
 footer: 💬
@@ -389,9 +392,9 @@ footer: Source: [Das Comeback des Jahrhunderts](https://www.deutschlandfunkkultu
 
 ---
 
-* # sli.do/event/37sjrgwl
+# sli.do/event/37sjrgwl
 
-* # www.slido.com #541188
+# www.slido.com #541188
 
 ---
 
